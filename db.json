@@ -1,0 +1,86 @@
+{
+    "corte": [
+        {
+            "id": 1,
+            "name": "Tesoura",
+            "price": 180,
+            "days": "Seg. a Sex."
+        },
+        {
+            "id": 2,
+            "name": "Máquina",
+            "price": 80,
+            "days": "Seg. a Sex."
+        },
+        {
+            "id": 3,
+            "name": "Máquina+Tesoura",
+            "price": 130,
+            "days": "Seg. a Sex."
+        },
+        {
+            "id": 4,
+            "name": "Tesoura corte a seco",
+            "price": 250,
+            "days": "Seg. a Sex."
+        }
+    ],
+    "tratamentos": [
+        {
+            "id": 1,
+            "nome": "Hidratação simples",
+            "price": 80,
+            "descrição": "Hidratação capilar com linha Loreal"
+        },
+        {
+            "id": 2,
+            "nome": "Hidratação esmeralda",
+            "price": 150,
+            "descrição": "Hidratação capilar com linha Kerastase"
+        },
+        {
+            "id": 3,
+            "nome": "Luzes",
+            "price": 250,
+            "descrição": "Coloração para iluminação de mechas"
+        },
+        {
+            "id": 4,
+            "nome": "Tintura simples",
+            "price": 120,
+            "descrição": "Coloração capilar com produtos Wella"
+        },
+        {
+            "id": 5,
+            "nome": "Reconstrução e escova",
+            "price": 130,
+            "descrição": "Aplicação de queratina mais escova"
+        }
+    ],
+    "spa": [
+        {
+            "id": 1,
+            "nome": "Massagem modeladora",
+            "price": 100,
+            "descrição": "Femenino e Masculino"
+        },
+        {
+            "id": 2,
+            "nome": "Massagem relaxante",
+            "price": 80,
+            "descrição": "Femenino e Masculino"
+        },
+        {
+            "id": 3,
+            "nome": "Massagem aromaterapia",
+            "price": 120,
+            "descrição": "Femenino e Masculino"
+        },
+        {
+            "id": 4,
+            "nome": "Massagem com pedras quentes",
+            "price": 150,
+            "descrição": "Femenino e Masculino"
+        }
+    ]
+}

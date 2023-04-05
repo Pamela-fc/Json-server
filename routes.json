@@ -1,0 +1,14 @@
+{
+  "GET /corte": "GET/corte/get",
+  "POST /corte": "POST/corte/create",
+  "PUT /corte": "PUT/corte/update",
+  "DELETE /corte": "DELETE/corte/delete",
+  "GET /tratamentos": "GET/tratamentos/get",
+  "POST /tratamentos": "POST/tratamentos/create",
+  "PUT /tratamentos": "PUT/tratamentos/update",
+  "DELETE /tratamentos": "DELETE/tratamentos/delete",
+  "GET /spa": "GET/spa/get",
+  "POST /spa": "POST/spa/create",
+  "PUT /spa": "PUT/spa/update",
+  "DELETE /spa": "DELETE/spa/delete"
+}
